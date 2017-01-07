@@ -1,0 +1,19 @@
+{
+  "name": "gvfgiving",
+  "version": "0.0.1",
+  "description": "GVF Giving Dwolla Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonvanBrackel/GVFGiving.git"
+  },
+  "author": "",
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/JasonvanBrackel/GVFGiving/issues"
+  },
+  "homepage": "https://github.com/JasonvanBrackel/GVFGiving#readme"
+}

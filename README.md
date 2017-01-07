@@ -8,7 +8,9 @@ The purpose of the is project is to integrate the Dwolla API with the Squarespac
 * Clone this repository 
 ``` git clone https://github.com/JasonvanBrackel/GVFGiving.git```
 * Install the most recent version of [Node.js](https://nodejs.org).  The LTS version is fine as well.
-* Install jasmine for testing via NPM (-g installs it globally, feel free to omit as you see fit.)
-``` npm install -g jasmine ```
+* Install jasmine for testing via NPM
+``` npm install jasmine ```
+* Install Istanbul for code coverage
+``` npm install -g istanbul ```
 * Install the Dwolla SDK via NPM
 ``` npm install dwolla-v2 ```
